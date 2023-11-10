@@ -6,9 +6,9 @@ A personal expense tracker application
 
 + Romar Castro 
 
-+ Yuan Piamonte 
++ Yuan Piamonte @yu-imus
 
 
 **Back End**
-+ Mark Federio
++ Mark Federio 
 

@@ -5,8 +5,7 @@ A personal expense tracker application
 **Front End**
 
 + Romar Castro 
-
-+ Yuan Piamonte @yu-imus
++ Yuan Piamonte 
 
 
 **Back End**
